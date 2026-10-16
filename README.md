@@ -15,6 +15,11 @@ Cours **INF1643 — Architecture des ordinateurs II** · Université du Québec 
   <img src="images/robot.jpg" alt="Le robot éviteur d'obstacles assemblé" width="560">
 </p>
 
+
+https://github.com/user-attachments/assets/f3e9f7d5-014d-447b-b10c-75c17ce2acb4
+
+
+
 🎬 **[Voir la vidéo du prototype en fonctionnement](Prototype%20fonctionnel%20du%20projet.mp4)**
 
 ---
